@@ -1,0 +1,9 @@
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\bin\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.deps.json
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\bin\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.runtimeconfig.json
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\bin\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.runtimeconfig.dev.json
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\bin\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.dll
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\bin\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.pdb
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\obj\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.csprojResolveAssemblyReference.cache
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\obj\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.AssemblyInfo.cs
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\obj\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.dll
+c:\users\rivonnguyen\documents\visual studio 2017\Projects\RivonHouse.StoreChain\RivonHouse.StoreChain.Api\obj\Debug\netcoreapp1.1\RivonHouse.StoreChain.Api.pdb
